@@ -18,9 +18,9 @@ main {
   width: 35%;
 }
 
-.information img {
-  height: 100px;
-  width: 100px;
+.information h3 {
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .description {
@@ -34,6 +34,9 @@ main {
 h3 {
   margin-top: 15px;
   font-size: 15px;
+  border-bottom: 1px solid #3b515f;
+  padding-bottom: 5px;
+  margin-right: 20px;
 }
 
 h4 {
